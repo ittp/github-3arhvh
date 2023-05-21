@@ -4,6 +4,9 @@ import type { Repository } from '../types/github'
 
 export async function getStaticProps() {
   const res = await fetch('https://api.github.com/repos/preactjs/preact')
+
+
+  
   const json: Repository = await res.json()
   return {
     props: {
