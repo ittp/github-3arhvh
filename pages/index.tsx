@@ -14,13 +14,15 @@ for (let item of data) {
 }
 
 console.log(dataRows);
-
+export async function getServerSideProps() {
+  return []
+}
 export async function getStaticProps() {
   const res = await fetch('https://api.github.com/repos/vercel/next.js', {
     method: 'GET',
     headers: {
       Accept: 'application/json',
-      Authorization: 'Bearer ' + process.env.YM_TOKEN,
+     // Authorization: 'Bearer ' + process.env.YM_TOKEN,
     },
   });
   // const res2 = await api.get('/stocks');
@@ -35,29 +37,14 @@ export async function getStaticProps() {
 
 export default function IndexPage({
   stars,
-  skus,
+  
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <>
-      <p>Next.js has {stars} ⭐️</p>
-      <Row gutter={16}>
-        {Object.values(data).map((i, k) => (
-          <Card
-            color={'success'}
-            tabBarExtraContent={'true'}
-            hoverable={true}
-            title={'Item ' + k}
-            children={
-              <Row>
-                <Col span={6}>ID</Col>
-                <Col span={6}>
-                  <Link href="/items/${i}">{i}</Link>
-                </Col>
-              </Row>
-            }
-          ></Card>
-        ))}
-      </Row>
+  
+  
+  <h1>200</h1>
+    
     </>
   );
 }
