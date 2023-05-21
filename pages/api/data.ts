@@ -1,6 +1,6 @@
 // import { data } from '../data.json';
 
-export defaults = {
+export default = {
 data: []
   
 }
