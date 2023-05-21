@@ -1,15 +1,7 @@
 import Link from 'next/link';
 import type { InferGetStaticPropsType } from 'next';
 import type { Repository } from '../types/github';
-import axios from 'axios';
-let api = axios.create({
-  baseURL: 'http://5.17.8.225',
-  headers: {
-    Accept: 'application/json',
-    'Content-Type': 'application/json',
-    // Authorization: '',
-  },
-});
+
 export async function getStaticProps() {
   const res = await fetch('https://api.github.com/repos/vercel/next.js');
   // const res2 = await api.get('/stocks');
