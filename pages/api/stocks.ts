@@ -3,6 +3,9 @@
 //   "partnerWarehouseId": "dc9a0123-e4bc-47fc-9177-cef33958bf23",
 //   "skus": [
 
+  const { createProxyMiddleware } = require('http-proxy-middleware')
+
+
 let item = (i) => ({
   sku: 'ЦБ-00033248',
   warehouseId: 47816,
