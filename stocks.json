@@ -1,0 +1,3095 @@
+{
+  "skus": [
+      {
+          "sku": "00-00005336",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00005340",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00005711",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00005713",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00005836",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00005922",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00006070",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00006591",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007203",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 7,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007204",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007205",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007206",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007207",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 7,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007385",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007386",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007387",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007388",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007390",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007553",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 6,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007617",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007665",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007666",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007668",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007915",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007916",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007924",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007925",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007930",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007931",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007932",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00007938",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "00-00008866",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00011771",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00011774",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00011940",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00012076",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00012767",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00012769",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00012940",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00012941",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00012942",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013145",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013387",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013388",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013665",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013666",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 6,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013667",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00013668",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00014632",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00015487",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00015488",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00015779",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00016258",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 10,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00016537",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00016549",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017573",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017579",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017581",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017582",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017583",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017584",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017585",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017586",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017675",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017679",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017680",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017681",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017682",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017683",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017684",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017685",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017687",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017688",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017689",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017690",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017691",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017692",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017694",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017695",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017745",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00017809",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00018128",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00018276",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00018277",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00019246",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020042",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020050",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020051",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020052",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020053",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020055",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020058",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020094",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020098",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020099",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020100",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020101",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020102",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020123",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020764",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020852",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020966",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020967",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020968",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020969",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020970",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00020971",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00022082",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00022480",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00022482",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00022486",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00022487",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023147",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023148",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023149",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023233",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023275",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023309",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023348",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00023349",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024228",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024229",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024230",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024231",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024232",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024233",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 100,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024741",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024742",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024749",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 200,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024750",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 200,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024751",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 200,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024752",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024765",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024766",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00024767",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 20,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00025206",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00025223",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026462",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026463",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026464",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026465",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026466",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026467",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026468",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026469",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026582",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026583",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026584",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026585",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026686",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026687",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026688",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026690",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026691",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 6,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026693",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026694",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026696",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026703",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026710",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 8,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026713",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026721",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026722",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026728",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026729",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026730",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00026766",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027570",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027571",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027572",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027573",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027574",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027584",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027599",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027604",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 6,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027609",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027610",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027611",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027612",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027613",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027614",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027615",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027621",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027675",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027771",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027776",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027856",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027857",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027858",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00027859",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00028567",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00028568",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029270",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029271",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029273",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029274",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029275",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029276",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029278",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029279",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029280",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029281",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029284",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029285",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029287",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029288",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029292",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029293",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029295",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029303",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029306",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029315",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029324",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029326",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029338",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029339",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029343",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029344",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029345",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029346",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 3,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029348",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029349",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029351",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029352",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029353",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029356",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029357",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029360",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029361",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029362",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029365",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029366",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029367",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029368",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029369",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029370",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029371",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029372",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029373",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029386",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029390",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029391",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029392",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029393",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029399",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029401",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029795",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029797",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00029799",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 4,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030452",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030474",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030508",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030524",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030532",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030584",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030600",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030605",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030623",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030632",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030633",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030637",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030640",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00030642",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00031941",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00031962",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032055",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032056",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032057",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032058",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032059",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032060",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032064",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032066",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032067",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032069",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032070",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032071",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032072",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032073",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 5,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032074",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 2,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00032075",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 1,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      },
+      {
+          "sku": "ЦБ-00033248",
+          "warehouseId": 47816,
+          "items": [
+              {
+                  "type": "FIT",
+                  "count": 10,
+                  "updatedAt": "2023-05-19T11:54:54+03:00"
+              }
+          ]
+      }
+  ]
+}
